@@ -5,5 +5,11 @@
 status
 init
 add 파일명
-commit -, "message"
+commit -m "message"
 log
+cat
+checkout <해시코드 전체 또는 해시코드 7자리>
+checkout -
+branch -M main
+git remote add origin https://github.com/사용자이름/원격리포지토리이름.git
+git push -u origin main
