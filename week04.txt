@@ -1,6 +1,10 @@
 4주차
 1교시
-conflict
+git 명령어
+log--oneline
+
+linux 멸령어
+
 
 2교시
 
